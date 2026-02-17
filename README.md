@@ -24,7 +24,9 @@ Clone the repository:
 
 bash
 git clone https://github.com/Sarathbabu1106/movie-recommender.git
+
 cd movie-recommender
+
 Install dependencies:
 
 bash
