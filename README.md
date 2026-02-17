@@ -29,11 +29,11 @@ cd movie-recommender
 
 Install dependencies:
 
-bash
+
 pip install -r requirements.txt
+
 Run the app locally:
 
-bash
 streamlit run streamlit_app.py
 
 📋 Requirements
