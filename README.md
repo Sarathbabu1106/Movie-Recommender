@@ -5,17 +5,11 @@ This app allows users to get movie recommendations either by genre or by movie t
 
 📂 Project Structure
 
-movie-recommender/
-│
-├── streamlit_app.py       # Main Streamlit app
 
-├── ml-latest-small/       # Dataset folder
-│   ├── ratings.csv
-│   ├── movies.csv
-│   └── tags.csv
+<img width="600" height="278" alt="Screenshot 2026-02-17 201439" src="https://github.com/user-attachments/assets/095dd771-f598-4d8d-8923-0c9b5c7ab286" />
 
-├── requirements.txt       # Dependencies
-└── README.md              # Project description
+
+
 ⚙️ Features
 By Genre: Get random recommendations from a selected genre.
 
@@ -39,11 +33,6 @@ Run the app locally:
 
 bash
 streamlit run streamlit_app.py
-
-Open in browser:
-
-Code
-http://localhost:8501
 
 📋 Requirements
 Dependencies are listed in requirements.txt:
