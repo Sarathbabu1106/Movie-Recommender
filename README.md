@@ -8,10 +8,12 @@ This app allows users to get movie recommendations either by genre or by movie t
 movie-recommender/
 │
 ├── streamlit_app.py       # Main Streamlit app
+
 ├── ml-latest-small/       # Dataset folder
 │   ├── ratings.csv
 │   ├── movies.csv
 │   └── tags.csv
+
 ├── requirements.txt       # Dependencies
 └── README.md              # Project description
 ⚙️ Features
